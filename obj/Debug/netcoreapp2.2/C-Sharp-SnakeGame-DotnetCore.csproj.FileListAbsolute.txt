@@ -1,0 +1,11 @@
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\obj\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.csprojAssemblyReference.cache
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\obj\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.csproj.CoreCompileInputs.cache
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\obj\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.AssemblyInfoInputs.cache
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\obj\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.AssemblyInfo.cs
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\bin\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.deps.json
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\bin\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.runtimeconfig.json
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\bin\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.runtimeconfig.dev.json
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\bin\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.dll
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\bin\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.pdb
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\obj\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.dll
+C:\Users\wheel\Documents\GitHub\C-Sharp-SnakeGame-DotnetCore\obj\Debug\netcoreapp2.2\C-Sharp-SnakeGame-DotnetCore.pdb
