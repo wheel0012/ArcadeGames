@@ -9,12 +9,12 @@ namespace C_Sharp_SnakeGame_DotnetCore
         {
             Program instance = new Program();
             Console.WriteLine("|    Select game |\n" +
-                              "|    1. Snake    |\n");
+                              "|    a. Snake    |\n");
             ConsoleKeyInfo a = Console.ReadKey();
             switch (a.Key)
             {
                 
-                case ConsoleKey.NumPad1:
+                case ConsoleKey.A:
                     instance.InitiateGame(Games.Snake);
                     break;
             }

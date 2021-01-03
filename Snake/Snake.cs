@@ -11,9 +11,9 @@ namespace C_Sharp_SnakeGame_DotnetCore
     {
         public SnakeGame()
         {
-            instance = new SnakeGame();
+            
         }
-        static SnakeGame instance;
+        static SnakeGame instance= new SnakeGame();
         Queue<int> px = new Queue<int> { };
         Queue<int> py = new Queue<int> { };
 
@@ -57,6 +57,7 @@ namespace C_Sharp_SnakeGame_DotnetCore
                     case Condition.GotNode:
                         Console.WriteLine("Got Node!");
                         Thread.Sleep(500);
+                        Console.Clear();
                         break;
                     case Condition.Clear:
                     case Condition.Over:
@@ -122,17 +123,20 @@ namespace C_Sharp_SnakeGame_DotnetCore
         }
         void DisplayWindow()
         {
-            Console.Clear();
+            Console.SetCursorPosition(0, 0);
+            var line = new StringBuilder().Append('\r');
             for (int i = 0; i < 20; i++)
             {
                 for (int j = 0; j < 20; j++)
                 {
 
-                    Console.Write(field[i, j]);
+                    line.Append(field[i, j]);
 
                 }
-                Console.WriteLine();
+                line.AppendLine();
             }
+
+            Console.WriteLine(line);
         }
         void Terminate(Condition isClear)
         {
